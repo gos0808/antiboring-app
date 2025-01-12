@@ -2,7 +2,8 @@
 The Activity Ideas App helps to find engaging and creative activities for all ages and interests. Whether you're looking for indoor or outdoor fun, the app offers a wide variety of ideas.
 
 # Links
-https://github.com/gos0808/antiboring-app /
+https://github.com/gos0808/antiboring-app
+
 https://activity-ideas.netlify.app/
 
 # Getting Started with Create React App
